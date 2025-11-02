@@ -50,8 +50,12 @@ class LoginActivity: AppCompatActivity() {
             .addOnCompleteListener { task ->
                 if (task.isSuccessful) {
                     Toast.makeText(this, "Ingreso exitoso", Toast.LENGTH_SHORT).show()
-                    // Redirigir a Activity principal
-                    startActivity(Intent(this, MainActivity::class.java))
+
+                    val uid = auth.currentUser?.uid
+
+                    val intent = Intent(this, MainActivity::class.java)
+                    intent.putExtra("USER_UID", uid) // enviamos UID
+                    startActivity(intent)
                     finish()
                 } else {
                     Toast.makeText(this, "Error al iniciar sesión: ${task.exception?.message}", Toast.LENGTH_LONG).show()

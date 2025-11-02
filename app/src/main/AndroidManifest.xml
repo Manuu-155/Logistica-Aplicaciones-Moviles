@@ -22,6 +22,8 @@
 
         <activity android:name=".MainActivity" />
         <activity android:name=".RegistroActivity" />
+        <activity android:name=".productos.ListadoProductosActivity" />
+        <activity android:name=".productos.AgregarProductoActivity" />
     </application>
 
 </manifest>
