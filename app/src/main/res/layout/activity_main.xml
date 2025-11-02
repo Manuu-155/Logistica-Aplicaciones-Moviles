@@ -232,7 +232,7 @@
                             android:background="@drawable/brown_background">
 
                             <ImageView
-                                android:id="@+id/imageView7"
+                                android:id="@+id/imageView15"
                                 android:layout_width="41dp"
                                 android:layout_height="39dp"
                                 android:layout_marginStart="16dp"
@@ -247,7 +247,7 @@
                         </androidx.constraintlayout.widget.ConstraintLayout>
 
                         <TextView
-                            android:id="@+id/textView6"
+                            android:id="@+id/textView16"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="Inbox"
@@ -270,7 +270,7 @@
                             android:background="@drawable/brown_background">
 
                             <ImageView
-                                android:id="@+id/imageView7"
+                                android:id="@+id/imageView117"
                                 android:layout_width="41dp"
                                 android:layout_height="39dp"
                                 android:layout_marginStart="16dp"
@@ -285,7 +285,7 @@
                         </androidx.constraintlayout.widget.ConstraintLayout>
 
                         <TextView
-                            android:id="@+id/textView6"
+                            android:id="@+id/textView116"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="Inbox"
@@ -318,7 +318,7 @@
                                     android:background="@drawable/brown_background">
 
                                     <ImageView
-                                        android:id="@+id/imageView7"
+                                        android:id="@+id/imageView11117"
                                         android:layout_width="41dp"
                                         android:layout_height="39dp"
                                         android:layout_marginStart="16dp"
@@ -333,7 +333,7 @@
                                 </androidx.constraintlayout.widget.ConstraintLayout>
 
                                 <TextView
-                                    android:id="@+id/textView6"
+                                    android:id="@+id/textView126"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="Inbox"
@@ -350,7 +350,7 @@
                                 android:background="@drawable/brown_background">
 
                                 <ImageView
-                                    android:id="@+id/imageView7"
+                                    android:id="@+id/imageView137"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginStart="16dp"
@@ -365,7 +365,7 @@
                             </androidx.constraintlayout.widget.ConstraintLayout>
 
                             <TextView
-                                android:id="@+id/textView6"
+                                android:id="@+id/textView146"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:text="Inbox"
@@ -382,7 +382,7 @@
                             android:background="@drawable/brown_background">
 
                             <ImageView
-                                android:id="@+id/imageView7"
+                                android:id="@+id/imageView157"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="16dp"
@@ -397,7 +397,7 @@
                         </androidx.constraintlayout.widget.ConstraintLayout>
 
                         <TextView
-                            android:id="@+id/textView6"
+                            android:id="@+id/textView166"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="Inbox"
@@ -420,7 +420,7 @@
                             android:background="@drawable/brown_background">
 
                             <ImageView
-                                android:id="@+id/imageView7"
+                                android:id="@+id/imageView177"
                                 android:layout_width="41dp"
                                 android:layout_height="39dp"
                                 android:layout_marginStart="16dp"
@@ -435,7 +435,7 @@
                         </androidx.constraintlayout.widget.ConstraintLayout>
 
                         <TextView
-                            android:id="@+id/textView6"
+                            android:id="@+id/textView186"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="Inbox"
@@ -464,7 +464,7 @@
                             android:background="@drawable/brown_background">
 
                             <ImageView
-                                android:id="@+id/imageView7"
+                                android:id="@+id/imageView197"
                                 android:layout_width="41dp"
                                 android:layout_height="39dp"
                                 android:layout_marginStart="16dp"
@@ -479,7 +479,7 @@
                         </androidx.constraintlayout.widget.ConstraintLayout>
 
                         <TextView
-                            android:id="@+id/textView6"
+                            android:id="@+id/textView216"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="Inbox"
@@ -502,7 +502,7 @@
                             android:background="@drawable/brown_background">
 
                             <ImageView
-                                android:id="@+id/imageView7"
+                                android:id="@+id/imageView227"
                                 android:layout_width="41dp"
                                 android:layout_height="39dp"
                                 android:layout_marginStart="16dp"
@@ -519,7 +519,7 @@
                         </androidx.constraintlayout.widget.ConstraintLayout>
 
                         <TextView
-                            android:id="@+id/textView6"
+                            android:id="@+id/textView236"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="Inbox"
@@ -552,7 +552,7 @@
                                     android:background="@drawable/brown_background">
 
                                     <ImageView
-                                        android:id="@+id/imageView7"
+                                        android:id="@+id/imageView247"
                                         android:layout_width="41dp"
                                         android:layout_height="39dp"
                                         android:layout_marginStart="16dp"
@@ -567,7 +567,7 @@
                                 </androidx.constraintlayout.widget.ConstraintLayout>
 
                                 <TextView
-                                    android:id="@+id/textView6"
+                                    android:id="@+id/textView256"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="Inbox"
@@ -584,7 +584,7 @@
                                 android:background="@drawable/brown_background">
 
                                 <ImageView
-                                    android:id="@+id/imageView7"
+                                    android:id="@+id/imageView267"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_marginStart="16dp"
@@ -599,7 +599,7 @@
                             </androidx.constraintlayout.widget.ConstraintLayout>
 
                             <TextView
-                                android:id="@+id/textView6"
+                                android:id="@+id/textView276"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:text="Inbox"
@@ -616,7 +616,7 @@
                             android:background="@drawable/brown_background">
 
                             <ImageView
-                                android:id="@+id/imageView7"
+                                android:id="@+id/imageView287"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="16dp"
@@ -631,7 +631,7 @@
                         </androidx.constraintlayout.widget.ConstraintLayout>
 
                         <TextView
-                            android:id="@+id/textView6"
+                            android:id="@+id/textView296"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="Inbox"
@@ -654,7 +654,7 @@
                             android:background="@drawable/brown_background">
 
                             <ImageView
-                                android:id="@+id/imageView7"
+                                android:id="@+id/imageView2347"
                                 android:layout_width="41dp"
                                 android:layout_height="39dp"
                                 android:layout_marginStart="16dp"
@@ -669,7 +669,7 @@
                         </androidx.constraintlayout.widget.ConstraintLayout>
 
                         <TextView
-                            android:id="@+id/textView6"
+                            android:id="@+id/textView316"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="Inbox"
